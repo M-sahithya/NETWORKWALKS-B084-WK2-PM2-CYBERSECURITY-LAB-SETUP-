@@ -1,0 +1,20 @@
+                                                                                                                                                             
+┌──(sahithya㉿kali)-[~]
+└─$ curl -I https://www.networkwalks.com
+HTTP/2 301 
+expires: Mon, 09 Nov 2026 16:53:00 GMT
+cache-control: max-age=3600
+x-redirect-by: WordPress
+set-cookie: __wpdm_client=df002223a7385944bd7f6be45e563826; path=/; domain=networkwalks.com; secure; HttpOnly
+location: https://networkwalks.com/
+referrer-policy: no-referrer-when-downgrade
+x-endurance-cache-level: 0
+x-nginx-cache: WordPress
+content-type: text/html; charset=UTF-8
+date: Mon, 09 Nov 2026 15:53:00 GMT
+server: Apache
+
+                                                                                                                                                             
+┌──(sahithya㉿kali)-[~]
+└─$ 
+
